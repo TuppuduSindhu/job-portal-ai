@@ -1,3 +1,2 @@
-# Welcome to your Lovable project
-
-TODO: Document your project here
+live link :
+https://job-portal-ai.lovable.app
